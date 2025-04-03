@@ -12,12 +12,13 @@
 ---
 
 ### 🌟 Projects
-- **[Patan Helper - Hospital Information Chatbot](https://github.com/Kritika-Poudel/PatanHelper)**  
+- **Patan Helper - Hospital Information Chatbot**  
   A Python-based chatbot that provides quick and accurate information about **Patan Hospital**, including:  
   - Emergency services and contacts  
   - Doctor availability and department info  
   - Directions and facility details  
   - Ambulance services and lab locations  
+  - 🚀 **[View Project](https://github.com/Kritika-Poudel/PatanHelper)**  
 
 ---
 
