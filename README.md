@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Kritika Poudel
+<p align="center">
+  <h1>👋 Hi, I'm Kritika Poudel</h1>
+</p>
 
 🎓 **Biomedical Engineering Student** at the College of Biomedical Engineering and Applied Sciences (COBEAS)  
 🔬 Passionate about **biomaterials**, medical technologies, and robotics  
@@ -17,7 +19,7 @@
 ---
 
 ### 🌟 Projects
-- **Patan Helper**: A comprehensive guide and support system designed to assist people in Patan with resources and community-driven solutions. *(Briefly describe the project here, like its purpose or tech stack used.)*  
+- **Patan Helper**: A comprehensive guide and support system designed to assist people in Patan with resources and community-driven solutions. 
   - [View Project on GitHub](https://github.com/kritikapoudel/patan-helper)  
 
 ---
