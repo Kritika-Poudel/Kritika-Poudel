@@ -16,11 +16,14 @@
 
 ---
 
-### 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=kritikapoudel&color=blue)
+### 🌟 Projects
+- **Patan Helper**: A comprehensive guide and support system designed to assist people in Patan with resources and community-driven solutions. *(Briefly describe the project here, like its purpose or tech stack used.)*  
+  - [View Project on GitHub](https://github.com/kritikapoudel/patan-helper)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritikapoudel&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikapoudel&layout=compact&theme=radical)
+---
+
+### 📊 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=kritikapoudel&color=blue)
 
 ---
 
