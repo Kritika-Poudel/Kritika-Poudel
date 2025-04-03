@@ -18,7 +18,7 @@
   - Doctor availability and department info  
   - Directions and facility details  
   - Ambulance services and lab locations  
-  - 🚀 **[View Project](https://github.com/Kritika-Poudel/PatanHelper)**  
+  🚀 **[View Project](https://github.com/Kritika-Poudel/PatanHelper)**  
 
 ---
 
