@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>👋 Hi, I'm Kritika Poudel</h1>
-</p>
+<p align="center"><h1>👋 Hi, I'm Kritika Poudel</h1>
 
 🎓 **Biomedical Engineering Student** at the College of Biomedical Engineering and Applied Sciences (COBEAS)  
 🔬 Passionate about **biomaterials**, medical technologies, and robotics  
@@ -24,7 +22,6 @@
 
 ---
 
-### 📊 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=kritikapoudel&color=blue)
 
 ---
